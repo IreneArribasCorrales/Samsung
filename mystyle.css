@@ -1,0 +1,36 @@
+legend{
+    background-color: red;
+    color:white;
+};
+
+input{
+    background-color: yellow;
+}
+
+button{
+    height: 43px;
+    width:auto;
+    background-color: rgb(226, 189, 195);
+    border-radius: 0.5em;
+    box-shadow: 0.2em 0.2em #e0d6da;;
+    border:none;
+}
+.container{
+    width:max-content;
+    padding-left: 200px;
+
+}
+h2{
+    padding-left:164px;
+    color:blue;
+}
+fieldset {
+    background-color:aqua;
+    border-radius: 0.3em;
+    border: none;
+}
+.input-color{
+    border-radius: 0.1em;
+    border: none;
+    background-color: yellow;
+}
